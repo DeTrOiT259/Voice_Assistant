@@ -12,7 +12,8 @@ This is a simple voice assistant script written in Python. The script listens fo
   pip install pyttsx3 speech_recognition pyjokes```
 ## Usage
 1. Run the script:
-python your_script_name.py 
+python your_script_name.py
+
 2.When prompted with "Listening...", speak the command. The assistant will respond based on the recognized command.
 
 ## Supported Commands
