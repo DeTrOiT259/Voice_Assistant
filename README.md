@@ -13,7 +13,8 @@ This is a simple voice assistant script written in Python. The script listens fo
 ## Usage
 1. Run the script:
 python your_script_name.py
- 2.When prompted with "Listening...", speak the command. The assistant will respond based on the recognized command.
+
+ 2. When prompted with "Listening...", speak the command. The assistant will respond based on the recognized command.
 
 ## Supported Commands
 Your Name: Responds with the assistant's name.
